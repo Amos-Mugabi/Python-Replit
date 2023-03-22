@@ -3,7 +3,6 @@ input("What is your favourite food:")
 input("What is your favourite music?")
 input("Where do you live?:")
 print()
-
 print("""
 You are
 Mark
