@@ -1,5 +1,5 @@
 # day 7
-print("Fake Fan Finder 😎")
+print("Fake Fan Finder 😎 😂")
 anime = input("What`s your favourite Anime? ")
 if anime == "one piece":
     print("oh really?!")
