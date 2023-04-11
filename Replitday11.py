@@ -11,3 +11,4 @@ if totaldays == 366:
     print("There are ", leapyear, "seconds", "in this year")
 else:
     print("There are ", year, "seconds", "in this year")
+    
