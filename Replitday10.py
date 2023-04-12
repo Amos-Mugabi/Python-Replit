@@ -14,3 +14,6 @@ amount = newtotal / people
 newamount = round(amount, 2)
 
 print("You each owe", newamount)
+
+
+
