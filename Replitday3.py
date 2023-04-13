@@ -8,3 +8,4 @@ print()
 
 
 print( "MENU",  method, food, "with", burned, plant, "on a bed of", DIY )
+
