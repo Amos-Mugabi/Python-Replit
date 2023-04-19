@@ -1,2 +1,2 @@
 # Python-Replit
-Programming in python with Replit100days.(1-20)
+Programming in python with Replit100days.(From 1-20)
